@@ -8,7 +8,7 @@ The program allows easy modification to handle a wide variety of products
 It creates interfaces to ensure all products have their required methods
 such as setProductionNumber, setName, getName, getManufactureDate,getSerialNumber.
 This program allows you to create a wide variety of products while still
-being able to easily access and control information about them.
+being able to easily access and control information about them...
 
 This projects uses interfaces, enums, class hierarchy and many more Java 
 fundamental concepts
